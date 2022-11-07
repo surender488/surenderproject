@@ -8,8 +8,9 @@ public class SampleTest {
 	@Test
 	public void test1() {
 		System.out.println("surender");
+		System.out.println("muthu");
+		}
 		
 	}
 	
 
-}
