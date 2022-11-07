@@ -8,6 +8,8 @@ public class SampleTest {
 	@Test
 	public void test1() {
 		System.out.println("surender");
+		System.out.println("muthu");
+		}
 		
 		System.out.println("vijay");
 		System.out.println("ben10");
@@ -15,4 +17,3 @@ public class SampleTest {
 	}
 	
 
-}
